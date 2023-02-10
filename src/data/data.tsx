@@ -77,7 +77,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: '/home/ZIyang/Desktop/ziyangyu.github.io/src/assets/CV.pdf',
+      href: 'https://github.com/Ziyang-Yu/ziyang-yu.github.io/blob/main/src/assets/CV.pdf',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
@@ -201,31 +201,31 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Peking Duck',
     description: '',
-    url: '/src/images/portfolio/pekingduck.jpg',
+    url: 'https://github.com/Ziyang-Yu/ziyang-yu.github.io/blob/main/src/images/portfolio/pekingduck.jpg',
     image: pekingduck,
   },
   {
     title: 'Cocktail',
     description: '',
-    url: '/src/images/portfolio/cocktail.jpg',
+    url: 'https://github.com/Ziyang-Yu/ziyang-yu.github.io/blob/main/src/images/portfolio/cocktail.jpg',
     image: cocktail,
   },
   {
     title: 'Hamburger',
     description: '',
-    url: '/src/images/portfolio/hamburger.jpg',
+    url: 'https://github.com/Ziyang-Yu/ziyang-yu.github.io/blob/main/src/images/portfolio/hamburger.jpg',
     image: hamburger,
   },
   {
     title: 'Lane',
     description: '',
-    url: '/src/images/portfolio/lane.jpg',
+    url: 'https://github.com/Ziyang-Yu/ziyang-yu.github.io/blob/main/src/images/portfolio/lane.jpg',
     image: lane,
   },
   {
     title: 'Mooncake',
     description: '',
-    url: '/src/images/portfolio/mooncake.jpg',
+    url: 'https://github.com/Ziyang-Yu/ziyang-yu.github.io/blob/main/src/images/portfolio/mooncake.jpg',
     image: mooncake,
   },
 ];
