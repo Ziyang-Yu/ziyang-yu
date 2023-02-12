@@ -244,7 +244,7 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: 'July 2022 - Present',
+    date: 'July 2022 - present',
     location: 'Emory University',
     title: 'Visiting Student',
     content: (
