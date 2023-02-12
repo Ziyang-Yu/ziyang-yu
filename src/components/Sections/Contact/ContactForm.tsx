@@ -49,9 +49,13 @@ const ContactForm: FC = memo(() => {
       emailjs.send('service_rg5p7eb', 'template_ng04lmt', templateParams, 'HvCh0ht8PL6jLdvzK')
       .then((result) => {
           console.log(result.text);
+          alert('Send successfully to Ziyang Yu. \n Sent information: \n name: ' + data.name + '\n email: ' + data.email + '\n message: ' + data.message);  
       }, (error) => {
           console.log(error.text);
       });
+
+      event.currentTarget.reset()
+      
     
         
 

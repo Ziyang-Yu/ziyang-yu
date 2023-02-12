@@ -168,7 +168,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: 'Office tools',
+    name: 'Office Tools',
     skills: [
       {
         name: 'Latex',
@@ -249,18 +249,7 @@ export const experience: TimelineItem[] = [
     title: 'Visiting Student',
     content: (
       <p>
-        Propose a novel method to increase the performance of GNNAutoscale.
-      </p>
-    ),
-  },
-  {
-    date: 'March 2007 - February 2010',
-    location: 'Garage Startup Studio',
-    title: 'Junior bug fixer',
-    content: (
-      <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        Propose a novel method to improve the performance of GNNAutoscale.
       </p>
     ),
   },
